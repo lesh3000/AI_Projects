@@ -22,7 +22,7 @@ Integrating classic ML classification algorithmes ( Logistic regression, SVM, Ra
 Extracting features with help of classic ML algorithmes and creating TFIDF BOW from images and text
 
 ## Feature Engineering
-Exploratory analysis and application of dimension reduction using PCA on foodfact dataset. 
+Exploratory analysis and application of dimension reduction using PCA on foodfacts dataset. 
 
 
 
