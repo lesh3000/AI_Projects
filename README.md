@@ -1,26 +1,28 @@
-# Foobar
+# Machine Learning Projects:
 
-Foobar is a Python library for dealing with word pluralization.
+## Image Classification
+Implementing Xception feature extraction for object classification
 
-## Installation
+## Semantic Image Segmentation 
+Applying Fully Convolutional network, U-NET and Pyramid models on Cityscapes dataset
+## NER and Text Classification Models
+RNN models integrated into flight booking chatbot. Keras implementation.
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+## Textual Sentiment Analysis 
+RNN models implemented on tweet dataset. Document preprocessing tokeninzation,lemmatization, stemming. Word embeddings: Word2vec, fasttest. Keras implementtaion
 
-```bash
-pip install foobar
-```
+## Customer Segmentation 
+Implementing clustering algorithmes ( K-means, OPTICS) to identify company's marketing segments. 
 
-## Usage
+## Customer classification
+Integrating classic ML classification algorithmes ( Logistic regression, SVM, Random forest, KNN) to predict customer credit payability.
 
-```python
-import foobar
+## Feature Extraction
+Extracting features with help of classic ML algorithmes and creating TFIDF BOW from images and text
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+## Feature Engineering
+Exploratory analysis and application of dimension reduction using PCA on foodfact dataset. 
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+
+
