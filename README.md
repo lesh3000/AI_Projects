@@ -1,10 +1,11 @@
 # Machine Learning Projects:
 
 ## Image Classification
-Implementing Xception feature extraction for object classification
+Transfer learning based on Xception model for object classification. Keras implementation
 
 ## Semantic Image Segmentation 
 Applying Fully Convolutional network, U-NET and Pyramid models on Cityscapes dataset
+
 ## NER and Text Classification Models
 RNN models integrated into flight booking chatbot. Keras implementation.
 
