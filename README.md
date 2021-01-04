@@ -6,6 +6,9 @@ Transfer learning based on Xception model for object classification. Keras imple
 ## Semantic Image Segmentation 
 Applying Fully Convolutional network, U-NET and Pyramid models on Cityscapes dataset
 
+## Face Verification
+Using pretrained FaceNET model to construct Siamese network for face verification
+
 ## NER and Text Classification Models
 RNN models integrated into flight booking chatbot. Keras implementation.
 
