@@ -18,7 +18,7 @@ RNN models implemented on tweet dataset. Document preprocessing tokeninzation,le
 ## Customer Segmentation 
 Implementing clustering algorithmes ( K-means, OPTICS) to identify company's marketing segments. 
 
-## Customer classification
+## Customer Classification
 Integrating classic ML classification algorithmes ( Logistic regression, SVM, Random forest, KNN) to predict customer credit payability.
 
 ## Feature Extraction
