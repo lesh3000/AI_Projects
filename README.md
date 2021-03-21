@@ -13,7 +13,12 @@ Using pretrained FaceNET model to construct Siamese network for face verificatio
 RNN models integrated into flight booking chatbot. Keras implementation.
 
 ## Textual Sentiment Analysis 
-RNN models implemented on tweet dataset. Document preprocessing tokeninzation,lemmatization, stemming. Word embeddings: Word2vec, fasttest. Keras implementtaion
+RNN models implemented on tweet dataset. Document preprocessing tokeninzation,lemmatization, stemming. Word embeddings: Word2vec, fasttest. Keras implementation
+
+## SQL Query Analytics & Execution Time Predictions
+SQL query execution time predictions modelling.
+SVR, RNN, BERT, FastText, ReGex text processing. Keras implementation. Model training, data analysis, AZURE model deployment( Flask App):<br>
+https://github.com/lesh3000/sql_problem
 
 ## Customer Segmentation 
 Implementing clustering algorithmes ( K-means, OPTICS) to identify company's marketing segments. 
